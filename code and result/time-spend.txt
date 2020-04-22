@@ -1,0 +1,6 @@
+
+
+Our neural network training process is mainly divided into four parts. With the help of GPU, the main time consumption is about 20 mins, 40 mins, 40 mins and 3 mins.
+
+
+This may be different from everyone's server configuration. I think the main difference lies in some simple optimization of the code, which is also where I spend most of my time learning.
